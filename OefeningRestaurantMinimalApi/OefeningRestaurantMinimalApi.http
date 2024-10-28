@@ -1,0 +1,6 @@
+@OefeningRestaurantMinimalApi_HostAddress = http://localhost:5117
+
+GET {{OefeningRestaurantMinimalApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
